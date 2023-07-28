@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- Hi, I’m an 11th grade student who's new to programming i know varius programming language principle Python since 2020 but also Js,Dart,C.
-  Now i am workin at a big project, [Project Virgil](https://github.com/Retr0100/ProjectVirgil) which is based on a simple Virtual Assistent and GPT-3.5 but it is much more than that
-  in a few i start to learn Java and deeping the OPP
-- I also had a little experience with cybersecurity by going to my nation's national [CyberChallange](https://cyberchallenge.it/) competition
-- At this time I am open to advice and improvements regarding my current project and programming style
+- Hi, I'm an 11th grade student who is new to programming, I know varius programming languages principle Python since 2020 but also Js,Dart,C.
+  Now I am working on a big project, [Project Virgil](https://github.com/Retr0100/ProjectVirgil), which is based on a simple virtual assistant and GPT-3.5, but it is much more than that.
+  In a few months I will start to learn Java and deepen the OPP.
+- I have also had some experience with cybersecurity by participating in my country's national [CyberChallenge](https://cyberchallenge.it/) competition.
+- Currently, I am open to advice and improvements regarding my current project and programming style.
   
 <a href="https://github.com/Retr0100/">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave&rank_icon=github" />
@@ -13,16 +13,17 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=synthwave" />
 </a>
 
-## Technologies I am using now
+## Technologies I am using now 📋
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-</div>
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 
+</div>
 
 ## My prefer project ❤️
 
@@ -36,4 +37,5 @@
 <a href="https://github.com/Retr0100/VirgilApp">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
 </a>
+
 
