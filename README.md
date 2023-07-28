@@ -6,10 +6,10 @@
 - I also had a little experience with cybersecurity by going to my nation's national [CyberChallange](https://cyberchallenge.it/) competition
 - At this time I am open to advice and improvements regarding my current project and programming style
   
-<a href="https://github.com/Retr0100/github-readme-stats">
+<a href="https://github.com/Retr0100/">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/Retr0100/github-readme-stats">
+<a href="https://github.com/Retr0100/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=synthwave" />
 </a>
 
@@ -26,14 +26,14 @@
 
 ## My prefer project ❤️
 
-<a href="https://github.com/Retr0100/github-readme-stats">
+<a href="https://github.com/Retr0100/ProjectVirgil">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=ProjectVirgil&theme=synthwave" />
 </a>
-<a href="https://github.com/Retr0100/github-readme-stats">
+<a href="https://github.com/Retr0100/VirgilAPI">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=synthwave" />
 </a>
 
-<a href="https://github.com/Retr0100/github-readme-stats">
+<a href="https://github.com/Retr0100/VirgilApp">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
 </a>
 
