@@ -25,14 +25,14 @@
 ## My prefer project ❤️
 
 <a href="https://github.com/Retr0100/ProjectVirgil">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=ProjectVirgil&theme=synthwave" />
+  <img width = 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=ProjectVirgil&theme=synthwave" />
 </a>
 <a href="https://github.com/Retr0100/VirgilAPI">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=synthwave" />
+  <img width = 350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=synthwave" />
 </a>
 
 <a href="https://github.com/Retr0100/VirgilApp">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
+  <img width = 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
 </a>
 
 
