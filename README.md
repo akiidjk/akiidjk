@@ -7,10 +7,10 @@
 - Currently, I am open to advice and improvements regarding my current project and programming style.
   
 <a href="https://github.com/Retr0100/">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave&rank_icon=github" />
+  <img height=200 width = 400  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave&rank_icon=github" />
 </a>
 <a href="https://github.com/Retr0100/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=synthwave" />
+  <img height=160 width = 400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=synthwave" />
 </a>
 
 ## Technologies I am using now 📋
@@ -20,9 +20,6 @@
   <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-
 </div>
 
 ## My prefer project ❤️
