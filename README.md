@@ -7,7 +7,7 @@
 - At this time I am open to advice and improvements regarding my current project and programming style
   
 <a href="https://github.com/Retr0100/">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave&rank_icon=github" />
 </a>
 <a href="https://github.com/Retr0100/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=synthwave" />
