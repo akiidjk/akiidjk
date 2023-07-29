@@ -2,7 +2,7 @@
 
 - Hi, I'm an 11th grade student who is new to programming, I know varius programming languages principle Python since 2020 but also Js,Dart,C.
   Now I am working on a big project, [Project Virgil](https://github.com/Retr0100/ProjectVirgil), which is based on a simple virtual assistant and GPT-3.5, but it is much more than that.
-  In a few months I will start to learn Java and deepen the OPP.
+  In a few months I will start to learn Java and deepen the OOP.
 - I have also had some experience with cybersecurity by participating in my country's national [CyberChallenge](https://cyberchallenge.it/) competition.
 - Currently, I am open to advice and improvements regarding my current project and programming style.
   
