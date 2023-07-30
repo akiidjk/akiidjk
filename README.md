@@ -30,7 +30,6 @@
 <a href="https://github.com/Retr0100/VirgilAPI">
   <img width = 350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=synthwave" />
 </a>
-
 <a href="https://github.com/Retr0100/VirgilApp">
   <img width = 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
 </a>
