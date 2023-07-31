@@ -34,5 +34,6 @@
   <img width = 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
 </a>
 
+###
 
 [![wakatime](https://wakatime.com/badge/user/d2904db0-e9ef-4cbb-821c-3ea11d4a1c03.svg)](https://wakatime.com/@d2904db0-e9ef-4cbb-821c-3ea11d4a1c03)
