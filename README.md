@@ -7,10 +7,10 @@
 - Currently, I am open to advice and improvements regarding my current project and programming style.
   
 <a href="https://github.com/Retr0100/">
-  <img height=200 width = 400  align="center" src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&theme=synthwave&rank_icon=github" />
+  <img height=300 width = 600  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retr0100&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/">
-  <img width = 307 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=synthwave" />
+  <img width = 307 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=dracula"/>
 </a>
 
 ## Technologies I am using now 📋
@@ -25,16 +25,16 @@
 ## My prefer project ❤️
 
 <a href="https://github.com/Retr0100/ProjectVirgil">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=ProjectVirgil&theme=synthwave" />
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=ProjectVirgil&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/VirgilAPI">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=synthwave" />
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/VirgilApp">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=synthwave" />
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/VirgilWebSite">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilWebSite&theme=synthwave" />
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilWebSite&theme=dracula" />
 </a>
 
 ###
