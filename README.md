@@ -7,7 +7,7 @@
 - Currently, I am open to advice and improvements regarding my current project and programming style.
   
 <a href="https://github.com/Retr0100/">
-  <img height=500 width = 600  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retr0100&theme=dracula" />
+  <img height=300 width =800  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retr0100&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/">
   <img width = 307 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=dracula"/>
