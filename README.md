@@ -34,7 +34,7 @@
   <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/VirgilWebSite">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilWebSite&theme=dracula" />
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAI&theme=dracula" />
 </a>
 
 ###
