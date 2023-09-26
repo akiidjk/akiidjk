@@ -24,8 +24,12 @@
 
 ## My prefer project ❤️
 
-<a href="https://github.com/Retr0100/ProjectVirgil">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=ProjectVirgil&theme=dracula" />
+
+<a href="https://github.com/Retr0100/VirgilAI">
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAI&theme=dracula" />
+</a>
+<a href="https://github.com/Retr0100/VirgilML">
+  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilML&theme=dracula" />
 </a>
 <a href="https://github.com/Retr0100/VirgilAPI">
   <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=dracula" />
@@ -33,9 +37,7 @@
 <a href="https://github.com/Retr0100/VirgilApp">
   <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=dracula" />
 </a>
-<a href="https://github.com/Retr0100/VirgilAI">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAI&theme=dracula" />
-</a>
+
 
 ###
 
