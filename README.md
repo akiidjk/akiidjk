@@ -41,11 +41,15 @@
 
 
 ###
-
+<div style="display: inline_block"><br>
+  
 [![wakatime](https://wakatime.com/badge/user/d2904db0-e9ef-4cbb-821c-3ea11d4a1c03.svg)](https://wakatime.com/@d2904db0-e9ef-4cbb-821c-3ea11d4a1c03)
 
 <a href="https://www.paypal.com/paypalme/Retr0jk">
-  <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img width = 200 align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
+</div>
+
+---------
 
 **PS: see this [SPECIAL LINK✨](https://projectvirgil.net/)**
