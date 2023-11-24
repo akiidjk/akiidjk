@@ -19,6 +19,7 @@
   <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
@@ -43,5 +44,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/d2904db0-e9ef-4cbb-821c-3ea11d4a1c03.svg)](https://wakatime.com/@d2904db0-e9ef-4cbb-821c-3ea11d4a1c03)
 
+<a href="https://www.paypal.com/paypalme/Retr0jk">
+  <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
 
 **PS: see this [SPECIAL LINK✨](https://projectvirgil.net/)**
