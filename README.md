@@ -1,55 +1,40 @@
-### Hi there 👋
+Hi 👋 My name is Francesco
+==========================
 
-- Hi, I'm an 11th grade student who is new to programming, I know varius programming languages principle Python since 2020 but also Js,Dart,C.
-  Now I am working on a big project, [Project Virgil](https://github.com/Retr0100/ProjectVirgil), which is based on a simple virtual assistant and GPT-3.5, but it is much more than that.
-  In a few months I will start to learn Java and deepen the OOP.
-- I have also had some experience with cybersecurity by participating in my country's national [CyberChallenge](https://cyberchallenge.it/) competition.
-- Currently, I am open to advice and improvements regarding my current project and programming style.
-  
-<a href="https://github.com/Retr0100/">
-  <img height=300 width =800  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retr0100&theme=dracula" />
-</a>
-<a href="https://github.com/Retr0100/">
-  <img width = 307 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0100&layout=compact&langs_count=5&hide=html&theme=dracula"/>
-</a>
+Students and Software dev
+-------------------------
 
-## Technologies I am using now 📋
-<div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
+Hi, I'm an 11th grade student who is new to programming, I know varius programming languages principle Python since 2020 but also Js,Dart,C. Now I am working on a big project, Project Virgil, which is based on a simple virtual assistant and GPT-3.5, but it is much more than that. In a few months I will start to learn Java and deepen the OOP. I have also had some experience with cybersecurity by participating in my country's national CyberChallenge competition. Currently, I am open to advice and improvements regarding my current project and programming style.
 
-## My prefer project ❤️
+* 🌍  I'm based in Salerno
+* ✉️  You can contact me at [memolifrancesco098@gmail.com](mailto:memolifrancesco098@gmail.com)
+* 🚀  I'm currently working on [Project Virgilio](http://projectvirgil.net)
+* 🧠  I'm learning React
 
+### Skills
 
-<a href="https://github.com/Retr0100/VirgilAI">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAI&theme=dracula" />
-</a>
-<a href="https://github.com/Retr0100/VirgilML">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilML&theme=dracula" />
-</a>
-<a href="https://github.com/Retr0100/VirgilAPI">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilAPI&theme=dracula" />
-</a>
-<a href="https://github.com/Retr0100/VirgilApp">
-  <img width = 400 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0100&repo=VirgilApp&theme=dracula" />
-</a>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
 
+### Socials
 
-###
-<div style="display: inline_block"><br>
-  
+<p align="left"> <a href="https://discord.com/users/retr0jk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Retr0100" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>Wakatime Stats</b>
+
 [![wakatime](https://wakatime.com/badge/user/d2904db0-e9ef-4cbb-821c-3ea11d4a1c03.svg)](https://wakatime.com/@d2904db0-e9ef-4cbb-821c-3ea11d4a1c03)
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Retr0100"><img src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Retr0100's GitHub stats" /></a>
+
+### Support Me
+<div style="display: inline_block"><br>
 <a href="https://www.paypal.com/paypalme/Retr0jk">
   <img width = 200 align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
+<a href="https://www.buymeacoffee.com/dragonfaivk"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
-
----------
-
-**PS: see this [SPECIAL LINK✨](https://projectvirgil.net/)**
