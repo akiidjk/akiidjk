@@ -8,8 +8,8 @@ Hi, I'm an 11th grade student who is new to programming, I know varius programmi
 
 * 🌍  I'm based in Salerno
 * ✉️  You can contact me at [memolifrancesco098@gmail.com](mailto:memolifrancesco098@gmail.com)
-* 🚀  I'm currently working on [Project Virgilio](http://projectvirgil.net)
-* 🧠  I'm learning React
+* 🚀  I'm currently working on [Todo application](https://github.com/Retr0100/TodoApplication)
+* 🧠  I'm re-learning Flutter and Dart
 
 ### Skills
 
