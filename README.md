@@ -8,7 +8,7 @@ Hi, I'm an 11th grade student who is new to programming, I know varius programmi
 
 * 🌍  I'm based in Salerno
 * ✉️  You can contact me at [memolifrancesco098@gmail.com](mailto:memolifrancesco098@gmail.com)
-* 🚀  I'm currently working on [Todo application](https://github.com/Retr0100/TodoApplication)
+* 🚀  I'm currently working on [Todo application](https://github.com/akiidjk/TodoApplication)
 * 🧠  I'm re-learning Flutter and Dart
 
 ### Skills
@@ -19,7 +19,7 @@ Hi, I'm an 11th grade student who is new to programming, I know varius programmi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Retr0100" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -29,7 +29,7 @@ Hi, I'm an 11th grade student who is new to programming, I know varius programmi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Retr0100"><img src="https://github-readme-stats.vercel.app/api?username=Retr0100&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Retr0100's GitHub stats" /></a>
+<a href="http://www.github.com/akiidjk"><img src="https://github-readme-stats.vercel.app/api?username=akiidjk&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="akiidjk's GitHub stats" /></a>
 
 ### Support Me
 <div style="display: inline_block"><br>
