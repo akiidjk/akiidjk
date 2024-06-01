@@ -1,40 +1,61 @@
-Hi 👋 My name is Francesco
-==========================
+# Ciao! 👋 Sono Francesco
 
-Students and Software dev
--------------------------
+**Benvenuto nel mio profilo GitHub!**
 
-Hi, I'm an 11th grade student who is new to programming, I know varius programming languages principle Python since 2020 but also Js,Dart,C. Now I am working on a big project, Project Virgil, which is based on a simple virtual assistant and GPT-3.5, but it is much more than that. I have also had some experience with cybersecurity by participating in my country's national CyberChallenge competition. Currently, I am open to advice and improvements regarding my current project and programming style.
+Sono uno sviluppatore e studente del 12° grado appassionato di tecnologia, innovazione e problem solving. Con una solida esperienza in Python, non mi limito a una sola tecnologia e ho esplorato vari ambiti. Mi piace lavorare su progetti che spaziano da applicazioni web, app mobile, progetti open source, AI e cybersecurity.
 
-* 🌍  I'm based in Salerno
-* ✉️  You can contact me at [memolifrancesco098@gmail.com](mailto:memolifrancesco098@gmail.com)
-* 🚀  I'm currently working on [Todo application](https://github.com/akiidjk/TodoApplication)
-* 🧠  I'm re-learning Flutter and Dart
+## 🔧 Competenze Tecniche
 
-### Skills
+- **Linguaggi di Programmazione:** Python, C, Java, Dart, JavaScript, Rust
+- **Frameworks e Librerie:** React, Next.js, Flutter, Flask, FastAPI
+- **Strumenti e Piattaforme:** Docker, Git
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+## 🚀 Progetti
 
-### Socials
+Sono sempre alla ricerca di nuove sfide e opportunità per imparare e crescere. Alcuni dei miei progetti recenti includono:
 
-<p align="left"> <a href="https://www.github.com/akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@akiidjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+- **ProjectVirgil:** Grande progetto sviluppato in Python e altre tecnologie secondarie con l'obiettivo di creare un assistente virtuale con GPT integrato (attualmente archiviato).
+- **ProjectIppocrate:** Progetto scolastico creato con l'obiettivo di sviluppare un CMS per la gestione delle pagine.
+- **Olicyber:** Progetto sulla cybersecurity (CTF) che culminerà in una gara l'8 giugno 2024.
+- **Soon:** ...
 
-### Badges
+## 🌱 Cosa Sto Studiando
 
-<b>Wakatime Stats</b>
+Attualmente sto approfondendo le competenze CTF e la cybersecurity. Sono entusiasta di esplorare nuove tecnologie e di applicarle in progetti reali. Essendo ancora molto giovane, sto approfittando del mio tempo per esplorare vari campi dell'informatica, così da potermi indirizzare e specializzarmi in futuro in un ramo specifico.
+
+## 📫 Contattami
+
+Se desideri collaborare su un progetto, hai domande o semplicemente vuoi fare due chiacchiere, puoi trovarmi su:
+
+- [LinkedIn](https://www.linkedin.com/in/francesco-memoli-b05a542ab/)
+- [Email](mailto:memolifrancesco098@gmail.com)
+- [Twitter](https://twitter.com/akiidjk)
+
+Grazie per aver visitato il mio profilo! 😊
+
+
+
+---
+
+### 🏆 Badges
+
+**Wakatime Stats**
 
 [![wakatime](https://wakatime.com/badge/user/d2904db0-e9ef-4cbb-821c-3ea11d4a1c03.svg)](https://wakatime.com/@d2904db0-e9ef-4cbb-821c-3ea11d4a1c03)
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
 <a href="http://www.github.com/akiidjk"><img src="https://github-readme-stats.vercel.app/api?username=akiidjk&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="akiidjk's GitHub stats" /></a>
 
-### Support Me
+---
+
+### ☕ Support Me
+
 <div style="display: inline_block"><br>
 <a href="https://www.paypal.com/paypalme/Retr0jk">
-  <img width = 200 align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img width="200" align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
-<a href="https://www.buymeacoffee.com/dragonfaivk"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.buymeacoffee.com/dragonfaivk">
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
 </div>
