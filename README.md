@@ -1,39 +1,37 @@
-# Ciao! 👋 Sono Francesco
+# Hello! 👋 I am Francesco
 
-**Benvenuto nel mio profilo GitHub!**
+**Welcome to my GitHub profile!**
 
-Sono uno sviluppatore e studente del 12° grado appassionato di tecnologia, innovazione e problem solving. Con una solida esperienza in Python, non mi limito a una sola tecnologia e ho esplorato vari ambiti. Mi piace lavorare su progetti che spaziano da applicazioni web, app mobile, progetti open source, AI e cybersecurity.
+I am a developer and 12th grade student passionate about technology, innovation and problem solving. With a solid background in Python, I don't limit myself to one technology and have explored various areas. I enjoy working on projects ranging from web applications, mobile apps, open source projects, AI and cybersecurity.
 
-## 🔧 Competenze Tecniche
+## 🔧 Technical skills
 
-- **Linguaggi di Programmazione:** Python, C, Java, Dart, JavaScript, Rust
-- **Frameworks e Librerie:** React, Next.js, Flutter, Flask, FastAPI
-- **Strumenti e Piattaforme:** Docker, Git
+- **Programming Languages:** Python, C, Java, Dart, JavaScript, Rust
+- **Frameworks and Libraries:** React, Next.js, Flutter, Flask, FastAPI
+- **Tools and Platforms:** Docker, Git
 
-## 🚀 Progetti
+## 🚀 Projects
 
-Sono sempre alla ricerca di nuove sfide e opportunità per imparare e crescere. Alcuni dei miei progetti recenti includono:
+I am always looking for new challenges and opportunities to learn and grow. Some of my recent projects include:
 
-- **ProjectVirgil:** Grande progetto sviluppato in Python e altre tecnologie secondarie con l'obiettivo di creare un assistente virtuale con GPT integrato (attualmente archiviato).
-- **ProjectIppocrate:** Progetto scolastico creato con l'obiettivo di sviluppare un CMS per la gestione delle pagine.
-- **Olicyber:** Progetto sulla cybersecurity (CTF) che culminerà in una gara l'8 giugno 2024.
+- **ProjectVirgil:** Large project developed in Python and other secondary technologies with the goal of creating a virtual assistant with integrated GPT (currently archived).
+- **ProjectIppocrate:** School project created with the aim of developing a CMS for page management.
+- **Olicyber:** Project on cybersecurity (CTF) culminating in a competition on 8 June 2024.
 - **Soon:** ...
 
-## 🌱 Cosa Sto Studiando
+## 🌱 What I am studying
 
-Attualmente sto approfondendo le competenze CTF e la cybersecurity. Sono entusiasta di esplorare nuove tecnologie e di applicarle in progetti reali. Essendo ancora molto giovane, sto approfittando del mio tempo per esplorare vari campi dell'informatica, così da potermi indirizzare e specializzarmi in futuro in un ramo specifico.
+I am currently delving into CTF and cybersecurity skills. I am excited to explore new technologies and apply them in real projects. As I am still very young, I am taking advantage of my time to explore various fields of IT, so that I can target and specialise in a specific branch in the future.
 
-## 📫 Contattami
+## 📫 Contact me
 
-Se desideri collaborare su un progetto, hai domande o semplicemente vuoi fare due chiacchiere, puoi trovarmi su:
+If you would like to collaborate on a project, have questions or simply want to have a chat, you can find me at:
 
 - [LinkedIn](https://www.linkedin.com/in/francesco-memoli-b05a542ab/)
 - [Email](mailto:memolifrancesco098@gmail.com)
 - [Twitter](https://twitter.com/akiidjk)
 
-Grazie per aver visitato il mio profilo! 😊
-
-
+Thank you for visiting my profile! 😊
 
 ---
 
