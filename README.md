@@ -28,7 +28,7 @@ I am currently delving into CTF and cybersecurity skills. I am excited to explor
 If you would like to collaborate on a project, have questions or simply want to have a chat, you can find me at:
 
 - [LinkedIn](https://www.linkedin.com/in/francesco-memoli-b05a542ab/)
-- [Email](mailto:memolifrancesco098@gmail.com)
+- [Email](mailto:akiidjk@proton.me)
 - [Twitter](https://twitter.com/akiidjk)
 
 Thank you for visiting my profile! 😊
