@@ -39,19 +39,14 @@ src="https://img.shields.io/twitter/follow/akiidjk?logo=twitter&style=for-the-ba
 
 <a href="http://www.github.com/akiidjk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akiidjk&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/akiidjk/ProjectFABT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiidjk&repo=ProjectFABT&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/akiidjk/SLANotifier" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiidjk&repo=SLANotifier&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
-<div width="100%" align="center"><a href="https://github.com/akiidjk/SysScope" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiidjk&repo=SysScope&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/akiidjk/ShellDeeple" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiidjk&repo=ShellDeeple&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
+
 <ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"> <a href="https://www.paypal.com/paypalme/Retr0jk">
+  <img width="150" align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a> </li>
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/akiidjk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
