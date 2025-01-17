@@ -7,10 +7,10 @@ Students and CTF player
 I'm a 12th-grade student with a strong passion for technology, innovation, and problem-solving. With a solid foundation in Python and experience across various areas of computer science, I am currently focused on advancing my skills in cybersecurity. I participate in Capture the Flag (CTF) competitions with my team, concentrating on web exploitation with the goal of specializing in penetration testing.
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [For now use github](http://github.com/akiidjk)
+* 🖥️  See my portfolio at <http://akiidjk.github.io/porfolio>
 * ✉️  You can contact me at [akiidjk@proton.me](mailto:akiidjk@proton.me)
-* 🚀  I'm currently working on [gopwn](http://github.com/akiidjk/gopwn)
-* 🧠  I'm learning Web exploitation
+* 🚀  I'm currently working on [Styx](http://github.com/akiidjk/styx)
+* 🧠  I'm learning Web exploitation and eBPF development
 * 🤝  I'm open to collaborating on tool and webapp (only backend)
 * ⚡  I use arch btw
 
