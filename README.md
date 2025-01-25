@@ -4,7 +4,7 @@ Hi 👋 My name is Francesco
 Students and CTF player
 -----------------------
 
-I'm a 12th-grade student with a strong passion for technology, innovation, and problem-solving. With a solid foundation in Python and experience across various areas of computer science, I am currently focused on advancing my skills in cybersecurity. I participate in Capture the Flag (CTF) competitions with my team, concentrating on web exploitation with the goal of specializing in penetration testing.
+I'm a 13th-grade student with a strong passion for technology, innovation, and problem-solving. With a solid foundation in Python and experience across various areas of computer science, I am currently focused on advancing my skills in cybersecurity. I participate in Capture the Flag (CTF) competitions with my team, concentrating on web exploitation with the goal of specializing in penetration testing.
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at <http://akiidjk.github.io/portfolio>
