@@ -18,6 +18,11 @@ I'm a 13th-grade student with a strong passion for technology, innovation, and p
 src="https://img.shields.io/github/followers/akiidjk?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a><a href="https://www.x.com/akiidjk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/akiidjk?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
 /></a>
+![](https://badges.pufler.dev/visits/akiidjk/akiidjk?color=6366f1&style=for-the-badge&abbreviated=true&labelColor=1c1917)
+![](https://badges.pufler.dev/years/akiidjk?color=6366f1&style=for-the-badge&abbreviated=true&labelColor=1c1917)
+![](https://badges.pufler.dev/repos/akiidjk?color=6366f1&style=for-the-badge&abbreviated=true&labelColor=1c1917)
+
+
 
 ### Skills
 
@@ -36,6 +41,7 @@ src="https://img.shields.io/twitter/follow/akiidjk?logo=twitter&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/akiidjk"><img src="https://github-readme-stats.vercel.app/api?username=akiidjk&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="akiidjk's GitHub stats" /></a>
+
 
 ### Support Me
 
