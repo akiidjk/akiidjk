@@ -9,7 +9,7 @@ I'm a 13th-grade student with a strong passion for technology, innovation, and p
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at <http://akiidjk.github.io/portfolio>
 * ✉️  You can contact me at [akiidjk@proton.me](mailto:akiidjk@proton.me)
-* 🚀  I'm currently working on [adh](http://github.com/akiidjk/adh) and doing CTFs with my [team](https://bytethecookies.github.io/) 🍪
+* 🚀  I'm currently working on [CookieFarm](http://github.com/ByteTheCookies/CookieFarm) and doing CTFs with my [team](https://bytethecookies.github.io/) 🍪
 * 🧠  I'm learning Web exploitation and Go programming
 * 🤝  I'm open to collaborating on tool and webapp (only backend)
 * ⚡  I use arch btw
