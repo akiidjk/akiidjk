@@ -7,7 +7,7 @@ Students and CTF player
 I am a first-year Computer Science student at the University of Salerno (UNISA), passionate about technology, innovation and problem-solving. I have a solid grounding in Python and practical experience in various IT areas. I am currently working on cybersecurity, actively participating in Capture the Flag (CTF) competitions, particularly web exploitation. My goal is to specialise in penetration testing and deepen my skills in offensive security, while delving into Go and backend programming.
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at <http://akiidjk.github.io/portfolio>
+* 🖥️  See my portfolio at <http://akiidjk.github.io>
 * ✉️  You can contact me at [akiidjk@proton.me](mailto:akiidjk@proton.me)
 * 🚀  I'm currently working on [CookieFarm](http://github.com/ByteTheCookies/CookieFarm) and doing CTFs with my [team](https://bytethecookies.github.io/) 🍪
 * 🧠  I'm learning Web exploitation and Go programming
