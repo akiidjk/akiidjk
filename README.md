@@ -8,7 +8,7 @@ I am a first-year Computer Science student at the University of Salerno (UNISA),
 
 * 🖥️  See my portfolio/blog at <https://akiidjk.github.io> (There isn't much at the moment.)
 * ✉️  You can contact me at [akiidjk@proton.me](mailto:akiidjk@proton.me)
-* 🚀  I'm currently working on some private project for some clients, I also actively participate in CTFs actively with my [team](https://bytethecookies.github.io/) every week. 🍪
+* 🚀  I'm currently working on some private project for some clients, I also actively participate in CTFs with my [team](https://bytethecookies.github.io/) every week. 🍪
 * 🧠  I'm learning Web exploitation and C programming
 * 🤝  I'm open to any type of project contact me for any idea
 * ⚡  I use arch btw
