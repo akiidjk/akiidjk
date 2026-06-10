@@ -1,17 +1,34 @@
 Francesco Memoli
 ==========================
 
-Students at UNISA, CTF player and co-founder of @bytethecookies
+Student at UNISA, CTF player and co-founder of @bytethecookies
 -----------------------
 
-I am a first-year Computer Science student at the University of Salerno (UNISA), passionate about technology, innovation and problem-solving. I have a solid grounding in Python and practical experience in various IT areas. I am currently working on cybersecurity, actively participating in Capture the Flag (CTF) competitions, particularly web exploitation. My goal is to learn, learn, learn and never stop learning and become better off than yesterday.
+I am a first-year Computer Science student at the University of Salerno (UNISA), passionate about technology, innovation and problem-solving. I have a solid grounding in Python and practical experience in various IT areas. I am currently focusing on cybersecurity, actively participating in Capture the Flag (CTF) competitions, particularly web exploitation.
 
-* 🖥️  See my portfolio/blog at <https://akiidjk.github.io> (There isn't much at the moment.)
-* ✉️  You can contact me at [akiidjk@proton.me](mailto:akiidjk@proton.me)
-* 🚀  I'm currently working on some private project for some clients, I also actively participate in CTFs with my [team](https://bytethecookies.github.io/) every week. 🍪
-* 🧠  I'm learning Web exploitation and C programming
-* 🤝  I'm open to any type of project contact me for any idea
-* ⚡  I use arch btw
+Alongside cybersecurity, I have a strong interest in **Microservices, Scalability, DevOps and distributed systems architecture**. I am fascinated by how modern systems are designed, deployed, observed and evolved at scale. I enjoy studying topics such as service decomposition, API design, database ownership, event-driven architectures, deployment pipelines, observability, containers, infrastructure automation, resilience, fault isolation and continuous delivery.
+
+My goal is to learn, learn, learn, never stop learning, and become better than yesterday.
+
+* ✉️ You can contact me at [akiidjk@proton.me](mailto:akiidjk@proton.me)
+* 🚀 I'm currently working on private projects for clients, and I actively participate in CTFs with my [team](https://bytethecookies.github.io/) every week. 🍪
+* 🧠 I'm currently learning Web exploitation, Zig programming, Microservices architecture, DevOps practices and scalable system design
+* 🤝 I'm open to any type of project — contact me for any idea
+* ⚡ I use Arch btw
+
+### Interests
+
+Some topics I am currently exploring:
+
+* Web exploitation and application security
+* Microservices and distributed systems
+* Service decomposition and domain boundaries
+* API design and inter-service communication
+* Event-driven architecture
+* Scalability, reliability and fault tolerance
+* Observability, logging, metrics and tracing
+* CI/CD, containers and infrastructure automation
+* DevOps culture and production-ready deployment workflows
 
 ### Stack
 
@@ -19,7 +36,7 @@ I have used many different things, and I learn about new technologies every day.
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" title="bash" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" title="Zig" width="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" width="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="35">
