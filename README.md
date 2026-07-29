@@ -60,9 +60,9 @@ I have used many different things, and I learn about new technologies every day.
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=akiidjk.akiidjk&"  />
 </div>
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/akiidjk/akiidjk/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=akiidjk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
