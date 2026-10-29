@@ -1,10 +1,10 @@
 Francesco Memoli
 ==========================
 
-Student at UNISA, CTF player and co-founder of @bytethecookies
+Student at UNISA, DevOps, Software Dev , CTF player and co-founder of @bytethecookies
 -----------------------
 
-I am a first-year Computer Science student at the University of Salerno (UNISA), passionate about technology, innovation and problem-solving. I have a solid grounding in Python and practical experience in various IT areas. I am currently focusing on cybersecurity, actively participating in Capture the Flag (CTF) competitions, particularly web exploitation.
+I am a second-year Computer Science student at the University of Salerno (UNISA), passionate about technology, innovation and problem-solving. I have a solid grounding in Python and practical experience in various IT areas. I am currently focusing on cybersecurity, actively participating in Capture the Flag (CTF) competitions, particularly web exploitation.
 
 Alongside cybersecurity, I have a strong interest in **Microservices, Scalability, DevOps and distributed systems architecture**. I am fascinated by how modern systems are designed, deployed, observed and evolved at scale. I enjoy studying topics such as service decomposition, API design, database ownership, event-driven architectures, deployment pipelines, observability, containers, infrastructure automation, resilience, fault isolation and continuous delivery.
 
